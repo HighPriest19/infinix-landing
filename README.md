@@ -45,8 +45,7 @@ infinix-landing/
 
 ## 🚀 Live Demo
 
-[View the site](https://infinix-landing.yourdomain.com) (deployed via Vercel or similar)
-
+[View the site](https://highpriest19.github.io/infinix-landing/)
 ---
 
 ## 👤 Developer
